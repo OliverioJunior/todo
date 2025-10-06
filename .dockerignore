@@ -1,0 +1,19 @@
+# Node
+node_modules
+npm-debug.log
+
+# Build
+/dist
+
+# Prisma engines generated for other platforms
+/generated/prisma/query_engine-*
+
+# VCS
+.git
+.gitignore
+
+# Env
+.env
+
+# IDE
+.vscode
